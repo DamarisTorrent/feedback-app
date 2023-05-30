@@ -4,7 +4,7 @@ function AboutPage() {
   return (
     <Card>
       <div className="about">
-        <h1>This is an about page for my feedbac app</h1>
+        <h1>This is an about page for my Feedback App</h1>
         <p> <a href="/">Back to Home</a></p>
       </div>
     </Card>

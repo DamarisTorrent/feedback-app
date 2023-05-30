@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "text": "This is the feedback for item 2 coming from json server and I just changed it",
+      "rating": 1,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "rating": 2,
+      "text": "This is the feedback for item 3 coming from json server"
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "text": "This is the feedback for item 4 coming from json server"
+    },
+    {
+      "id": 5,
+      "rating": 9,
+      "text": "This is the feedback for item 5 coming from json server"
+    },
+    {
+      "rating": "6",
+      "text": "This is the text for item 6 in json server that I just added via POST",
+      "id": 6
+    },
+    {
+      "text": "This is the new review I have added to the database",
+      "rating": 5,
+      "id": 7
+    }
+  ]
+}
